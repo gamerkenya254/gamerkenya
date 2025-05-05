@@ -1,2 +1,2 @@
 # GAMER_KENYA XMD
-![Uploading pexels-trace-707046.jpg…]()
+C:\Users\USER\Pictures\pexels-trace-707046.jpg
