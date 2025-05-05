@@ -18,7 +18,7 @@
   </p>
 
 <div align="center">
-  <img src="https://files.catbox.moe/f4q8fh.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="[https://files.catbox.moe/f4q8fh.jpg](https://www.bmw.com/content/dam/bmw/marketBMWCOM/bmw_com/categories/Innovation/engine/eng-01-stage-hd.jpg?imwidth=1024)" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
          `DEPLOMENT STEPS`
